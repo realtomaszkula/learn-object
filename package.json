@@ -2,7 +2,7 @@
   "name": "learn-es5",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest --watchAll --bail"
+    "test": "jest --watch"
   },
   "author": "Tomasz Kula",
   "license": "MIT",
